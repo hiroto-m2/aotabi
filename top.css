@@ -1,5 +1,9 @@
+body {
+    background-color: rgba(207, 224, 248, 0.786);
+}
+
 .header-whole {
-    background-color: aqua;
+    background-color: rgba(126, 207, 230);
     display: flex;
     position: fixed;
     align-items: center;
@@ -33,6 +37,13 @@
     margin: 80px;
 }
 
+.header-letter {
+    font-family: 'Yu Gothic','Yu Gothic',sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
 .home-whole {
     margin-left: 20%;
     margin-right: 20%;
@@ -44,6 +55,20 @@
     width: 100%;
 }
 
+.home-logo-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .home-logo {
     width: 100%;
+}
+
+.home-logo-message {
+    display: block;
+    color: aliceblue;
+    font-size: 60px;
+    position: absolute;
 }
