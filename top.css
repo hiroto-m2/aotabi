@@ -14,6 +14,10 @@
     margin-right: 50px;
 }
 
+.header-logo {
+    height: 65px;
+}
+
 .header-button-whole {
     width: 100%;
     justify-content: center;
@@ -27,4 +31,20 @@
 
 .header-button {
     margin: 80px;
+}
+
+.home-whole {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+}
+
+.blank {
+    height: 65px;
+    width: 100%;
+}
+
+.home-logo {
+    width: 100%;
+    height: 100px;
 }
