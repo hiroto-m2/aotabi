@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(207, 224, 248, 0.786);
+}
+
+.header-whole {
+    background-color: rgba(126, 207, 230);
+    display: flex;
+    position: fixed;
+    align-items: center;
+    width: 100%;
+    height: 65px;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+.header-logo-wrapper {
+    margin-left: 20px;
+}
+
+.header-logo {
+    height: 65px;
+}
+
+.header-button-whole {
+    width: 100%;
+    justify-content: center;
+}
+
+.header-button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-button {
+    margin: 80px;
+}
+
+.header-letter {
+    font-family: 'Yu Gothic','Yu Gothic',sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: whitesmoke;
+}
