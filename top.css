@@ -72,3 +72,21 @@ body {
     font-size: 60px;
     position: absolute;
 }
+
+.news-whole {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    flex-direction: column;
+}
+
+.news-title {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.news-contents-whole {
+    width: 100%;
+}
