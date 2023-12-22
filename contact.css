@@ -66,16 +66,24 @@ body {
 }
 
 .contact-explain {
-    font-size: 20px;
-    padding: 0 30px;
+    font-size: 30px;
+    padding: 10px 30px;
+    font-family: 'Noto Sans Japanese','Yu Gothic','Yu Gothic',sans-serif;
+    font-weight: bolder;
+    background-color: rgb(255, 238, 241);
 }
 
 .attention-container {
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .attention-title {
     margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.attention-list {
+    font-size: 19px;
 }
 
 .form-container {
@@ -83,7 +91,7 @@ body {
 }
 
 .form-title {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .form-center {
@@ -94,6 +102,7 @@ body {
 .form-contents {
     width: 100%;
     resize: none;
+    font-size: 19px;
 }
 
 .form-button {
@@ -103,5 +112,5 @@ body {
     margin: 20px auto 10px;
     padding: 5px 10px;
     background-color: rgb(192, 192, 192);
-    font-family: 'Yu Gothic','Yu Gothic',sans-serif;
+    font-family: 'Noto Sans Japanese','Russo One','Yu Gothic','Yu Gothic',sans-serif;
 }
