@@ -65,7 +65,12 @@ body {
     justify-content: center;
 }
 
-.picture-ribon {
+.picture-ribon-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-picture {
     width: 100%;
 }
 
