@@ -43,3 +43,14 @@ body {
     font-weight: bold;
     color: whitesmoke;
 }
+
+.tsuriba-whole {
+    margin: 0 auto;
+    width: 70%;
+    background-color: rgb(255, 253, 250);
+}
+
+.blank {
+    height: 65px;
+    width: 100%;
+}
