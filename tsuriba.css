@@ -54,3 +54,20 @@ body {
     height: 65px;
     width: 100%;
 }
+
+.tokyo-bay-title {
+    width: 70%;
+    margin: 40px auto 0;
+    font-size: 50px;
+}
+
+.tokyo-bay-container {
+    display: flex;
+    justify-content: center;
+}
+
+.tokyo-bay {
+    display: block;
+    margin: 20px auto 0;
+    width: 70%;
+}
